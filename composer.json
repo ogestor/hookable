@@ -1,5 +1,5 @@
 {
-    "name": "sofa/hookable",
+    "name": "ogestor/hookable",
     "description": "Laravel Eloquent hooks system.",
     "license": "MIT",
     "support": {
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.6.4",
-        "illuminate/database": "5.3.*|5.4.*|5.5.*"
+        "illuminate/database": "5.3.*|5.4.*|5.5.*|6.*"
     },
     "require-dev": {
         "crysalead/kahlan": "~1.1"
